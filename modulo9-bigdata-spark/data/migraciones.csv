@@ -1,0 +1,6 @@
+ID,Origen,Destino,Año,Razón,PIB_Origen,PIB_Destino,Tasa_Desempleo_Origen,Tasa_Desempleo_Destino,Nivel_Educativo_Origen,Nivel_Educativo_Destino,Población_Origen,Población_Destino
+1,México,EEUU,2015,Económica,8900,62000,5.2,3.8,8.5,12.3,125000000,331000000
+2,Siria,Alemania,2016,Conflicto,2500,45000,15.4,4.5,6.2,14.1,18000000,83000000
+3,Venezuela,Colombia,2017,Política,6000,15000,14.8,10.1,9.3,11.0,28000000,50000000
+4,India,Emiratos Árabes,2018,Laboral,2200,43000,7.2,1.8,7.8,13.0,1380000000,9800000
+5,Argentina,España,2019,Económica,10000,34000,9.5,13.2,11.5,13.8,45000000,47000000
