@@ -20,14 +20,15 @@ Cada proyecto está documentado con su contexto, metodología, resultados y cód
 
 ## 📌 Sobre mí
 
-- 🔹 **Gestión de proyectos**: experiencia como Jefe de Proyectos y Scrum Master.  
-- 🔹 **Ciencia de datos**: Python, SQL, Power BI, Tableau, Spark.  
-- 🔹 **Metodologías**: Scrum Master certificado, conocimientos formales en PMBOK.  
-- 🔹 **Interés actual**: aplicar técnicas de análisis de datos y ML en entornos reales de negocio.  
+- **Gestión de proyectos**: experiencia como Jefe de Proyectos y Scrum Master.  
+- **Ciencia de datos**: Python, SQL, Power BI, Tableau, Spark.  
+- **Metodologías**: Scrum Master certificado, conocimientos formales en PMBOK.  
+- **Interés actual**: aplicar técnicas de análisis de datos y ML en entornos reales de negocio.  
 
 ---
 
 ## 📫 Contacto
 
 - [LinkedIn](https://www.linkedin.com/in/dayalaa/)  
-- 📧 Email: *[tu correo]*  
+- 📧 Email: daniel.ayala.alvarez@gmail.com  
+
